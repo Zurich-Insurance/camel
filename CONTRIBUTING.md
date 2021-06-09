@@ -6,7 +6,7 @@ Then follow these simple guidlines for working on the code and committing your c
 
 - Fork and then clone the github camel repository:
 
-    git clone https://github.com/your-github-username/camel.git
+    git clone https://github.com/Zurich-Insurance/camel/camel.git
 
 - Build the project using maven:
 
